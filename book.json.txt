@@ -1,5 +1,0 @@
-{"Title": "The Control Freak",
- "Author":"Les Parrott",
- "Publisher": "Tyndale House",
- "Genres": "Beliefs",
- "Price": 13.97}
