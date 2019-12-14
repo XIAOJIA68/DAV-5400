@@ -65,7 +65,7 @@
 3,American Indian,2015,2015,TRUE,TRUE,412031,Retail salespersons,35335.18834,18089.48256,446,518.4792938,6,New York,04000US36
 6,Asian,2015,2015,TRUE,TRUE,311010,"Nursing, psychiatric, & home health aides",20633.82058,2297.676789,21848,3624.535318,189,New York,04000US36
 2,Black,2015,2015,TRUE,TRUE,412031,Retail salespersons,21617.34564,2765.289451,36087,4654.54145,286,New York,04000US36
-5,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",2015,2015,TRUE,TRUE,436010,Secretaries & administrative assistants,36629.24037,14604.79588,753,673.6806311,5,New York,04000US36
+5,American Indian and Alaska Native or no races,2015,2015,TRUE,TRUE,436010,Secretaries & administrative assistants,36629.24037,14604.79588,753,673.6806311,5,New York,04000US36
 2,Black,2015,2015,TRUE,TRUE,436010,Secretaries & administrative assistants,39870.43224,3441.167645,32209,4398.292855,304,New York,04000US36
 1,White,2015,2015,TRUE,TRUE,412031,Retail salespersons,32137.49265,2783.626715,135367,8964.730157,1269,New York,04000US36
 9,Two or More Races,2015,2015,TRUE,TRUE,252020,Elementary & middle school teachers,57907.66939,12309.06255,3920,1536.820356,27,New York,04000US36
